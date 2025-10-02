@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    android:gravity="center">
+    android:src="@drawable/Imagen de WhatsApp 2025-10-01 a las 20.46.15_8a1cd01c.jpg"
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Home Fragment"
+        android:textSize="24sp"
+        android:textStyle="bold"/>
+</FrameLayout>
+
